@@ -28,10 +28,11 @@ My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — A
 
 ## 🚀 Featured Projects
 
-### 🤖 [MCP-BSPWM](https://github.com/ulisesMonte/MCP-BSPWM)
-> MCP server that connects an LLM agent to **BSPWM** (a Linux tiling window manager), enabling the agent to control and configure the entire desktop environment through natural language. Built with Python following the Model Context Protocol specification.
+### 🤖 [MCP Factory](https://github.com/ulisesMonte/MCP-Factory)
 
-`Python` `MCP` `LLM Agents` `Linux` `BSPWM`
+> Multi-agent platform capable of generating complete Model Context Protocol (MCP) servers from natural language requirements. The system analyzes requirements, researches documentation, designs the architecture, generates production-ready implementations, validates the result and automatically registers the server. Built using local open-source models, eliminating token consumption and inference costs.
+
+`Python` `LLMs` `MCP` `Multi-Agent Systems` `LangGraph` `ChromaDB` `Ollama` `System Design`
 
 ### 🏢 [NestJS Intranet API](https://github.com/ulisesMonte/nestjs-intranet-api)
 
@@ -39,12 +40,12 @@ My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — A
 
 `NestJS` `TypeScript` `PostgreSQL` `JWT` `TypeORM` `REST API` 
 
-### 🛒 [Ecommerce](https://github.com/ulisesMonte/eccomerce)
-> Full-stack ecommerce platform built with the MERN stack, designed for scalable product management, authentication, shopping workflows, and business operations. Developed with a modular architecture and production-oriented backend services.
+### 🤖 [MCP-BSPWM](https://github.com/ulisesMonte/MCP-BSPWM)
+> MCP server that connects an LLM agent to **BSPWM** (a Linux tiling window manager), enabling the agent to control and configure the entire desktop environment through natural language. Built with Python following the Model Context Protocol specification.
 
-`MongoDB` `Express.js` `Node.js` 
+`Python` `MCP` `LLM Agents` `Linux` `BSPWM`
 
-### 🎮 arkanoid
+### 🎮 [arkanoid](https://github.com/ulisesMonte/arkanoid) 
 > Classic Arkanoid game implemented in C++ — low-level memory management and real-time rendering.
 
 `C++`
