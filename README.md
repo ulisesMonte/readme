@@ -103,13 +103,5 @@ My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — A
 | 🎓 **UBA — Information Systems** | Currently enrolled (2026–2032) |
 | 🏫 **ET 37 Computer Technician** | Graduated 2024 |
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ulisesMonte&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
