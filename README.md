@@ -28,11 +28,19 @@ My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — A
 
 ## 🚀 Featured Projects
 
+
 ### 🤖 [MCP Factory](https://github.com/ulisesMonte/MCP-Factory)
 
 > Multi-agent platform capable of generating complete Model Context Protocol (MCP) servers from natural language requirements. The system analyzes requirements, researches documentation, designs the architecture, generates production-ready implementations, validates the result and automatically registers the server. Built using local open-source models, eliminating token consumption and inference costs.
 
 `Python` `LLMs` `MCP` `Multi-Agent Systems` `LangGraph` `ChromaDB` `Ollama` `System Design`
+
+
+### 📡 [ServerMetrics](https://github.com/ulisesMonte//ServerMetrics-GO)
+> Lightweight LAN monitoring system built in Go. Agents run on each host, collect real-time CPU, memory, disk and network metrics, and push them to a central server via WebSocket. Agents discover the server automatically on the LAN using mDNS — no configuration needed. The server validates connections through ARP-based network scanning and serves a live React dashboard embedded in the single Go binary.
+
+`Go` `WebSockets` `mDNS` `gopsutil` `React` `TypeScript` `Goroutines` `Networking`
+
 
 ### 🏢 [NestJS Intranet API](https://github.com/ulisesMonte/nestjs-intranet-api)
 
@@ -40,17 +48,12 @@ My RPA system in Python reached the finals of the **🏆 Premios Sadosky** — A
 
 `NestJS` `TypeScript` `PostgreSQL` `JWT` `TypeORM` `REST API` 
 
+
 ### 🤖 [MCP-BSPWM](https://github.com/ulisesMonte/MCP-BSPWM)
 > MCP server that connects an LLM agent to **BSPWM** (a Linux tiling window manager), enabling the agent to control and configure the entire desktop environment through natural language. Built with Python following the Model Context Protocol specification.
 
 `Python` `MCP` `LLM Agents` `Linux` `BSPWM`
 
-### 🎮 [arkanoid](https://github.com/ulisesMonte/arkanoid) 
-> Classic Arkanoid game implemented in C++ — low-level memory management and real-time rendering.
-
-`C++`
-
----
 
 ## 🛠 Tech Stack
 
